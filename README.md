@@ -15,4 +15,4 @@
 
 ## 📥 BRAT을 이용한 설치 (권장)
 BRAT 플러그인을 사용 중이시라면 아래 주소를 입력하여 클릭 한 번에 설치할 수 있습니다.
-`사용자님의깃허브아이디/obsidian-kyobo-book-search`
+`HanTae-ho/obsidian-kyobo-book-search`
